@@ -1,0 +1,13 @@
+-Base:
+    creer
+    inserer donne de test
+-Pages:
+    -Liste:
+        html
+        fonction
+    -Fiche:
+        html
+        fonction
+    -Ajout:
+        html    
+        fonction
