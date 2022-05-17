@@ -6,6 +6,8 @@ use rechauffement;
         mdp varchar(50) not null
     );
 
+    insert into admin values('admin@gmail.com','admin');
+
     
     drop view v_rechauffement_climatique;
     drop table details_rechauffement_climatique;
